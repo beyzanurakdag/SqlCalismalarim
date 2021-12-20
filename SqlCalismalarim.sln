@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlCalismalarim", "SqlCalismalarim\SqlCalismalarim.csproj", "{D7C2A696-9008-486A-80C7-2273D7B02428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{522241AE-F41F-4C65-9AAA-FA79A6C997E9}"
+	ProjectSection(SolutionItems) = preProject
+		SqlCalismalarim.sql = SqlCalismalarim.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C2A696-9008-486A-80C7-2273D7B02428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C2A696-9008-486A-80C7-2273D7B02428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C2A696-9008-486A-80C7-2273D7B02428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C2A696-9008-486A-80C7-2273D7B02428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69005292-C916-4527-9F5F-9B9E80555952}
+	EndGlobalSection
+EndGlobal
